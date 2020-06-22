@@ -47,3 +47,6 @@
 [submodule "plugins/reports/counter/classes/COUNTER"]
 	path = plugins/reports/counter/classes/COUNTER
 	url = https://github.com/ulsdevteam/COUNTER.git
+[submodule "plugins/themes/opscidia-custom-theme"]
+	path = plugins/themes/opscidia-custom-theme
+	url = https://github.com/opscidia/opscidia-custom-theme
